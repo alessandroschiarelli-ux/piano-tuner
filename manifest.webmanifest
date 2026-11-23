@@ -1,0 +1,9 @@
+{
+  "name": "HΛLCYON Piano Tuner",
+  "short_name": "Piano Tuner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101113",
+  "theme_color": "#101113",
+  "description": "Accordatore cromatico minimal per pianoforte"
+}
